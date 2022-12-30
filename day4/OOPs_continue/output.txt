@@ -1,0 +1,55 @@
+========================================================
+Enter username: vikrant       
+Enter password: vikrant       
+========================================================
+
+Login successfully
+Enter your Name : Vikrant Singh
+Enter your Class Name : COMP C
+Enter your College Name : TCET
+Enter your Roll Number : 33
+
+ choose any branch for giving exam
+1. Mechanical Engineering
+2. Infomation Technology
+3. Computer Science
+4. Civil Engineering
+
+Enter your choice : 3
+
+
+Do You Want To Put Examination 
+
+Enter yes/no : yes
+Enter Marks of Statistics        : 66
+Enter Marks of DMGT              : 88  
+Enter Marks of CG                : 77
+Enter Marks of TOC               : 89
+Enter Marks of Maths1            : 96
+
+You are pass
+
+=========================================================================================================
+
+                                        College Name: TCET
+
+=========================================================================================================
+|        Student Name:  Vikrant Singh                                                                   |
+|        Class Name  :  COMP C                                                                          |
+|        Roll NO     :  33                                                                              |
+=========================================================================================================
+
+  Subject Name   :   Total Marks :   Obtained Marks  :
+
+ Statictic       :  100          : 66           :
+ DMGT            :  100          : 88           :
+ CG              :  100          : 77           :
+ TOC             :  100          : 89           :
+ Math            :  100          : 96           :
+=========================================================================================================
+
+Result Status        : Pass
+Total Marks          : 500
+Obtained Marks       : 416
+Percentage           : 83.2
+=========================================================================================================
